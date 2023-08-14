@@ -28,3 +28,17 @@ I am on the path to become a true Software Engineer.
   </a>&nbsp;
 </p>
 
+`about.me`
+```yaml
+name: Paul John
+located_in: Tanzania
+current_status: Student and Learner
+education:
+  - "ALX's Software Engineering Programme (In Progress)"
+interests:
+  - "Software Engineering"
+  - "Linux and Server Administration"
+  - "Nginx and Web Servers"
+  - "Databases and Data Management"
+  - "Systems Programming and Low-Level Development"
+
