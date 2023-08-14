@@ -59,6 +59,6 @@ interests:
     <img src="https://cdn.simpleicons.org/linkedin/f5f5f5" alt="LinkedIn" height="16" width="16">
   </a>&nbsp;
   <a href="https://medium.com/@namestarlit">
-    <img src="https://cdn.simpleicons.org/medium/f5f5f5" alt="Bento" height="16" width="16">
+    <img src="https://cdn.simpleicons.org/medium/f5f5f5" alt="Medium" height="16" width="16">
   </a>&nbsp;
 </p>
