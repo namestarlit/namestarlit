@@ -8,4 +8,7 @@
   <a href="https://www.linkedin.com/in/namestarlit/">
   <img src="https://cdn.simpleicons.org/linkedin/f5f5f5" alt="LinkedIn" height="16" width="16">
   </a>
+  <a href="https://bento.me/starlit">
+  <img src="https://cdn.simpleicons.org/bento/f5f5f5" alt="Bento" height="16" width="16">
+  </a>&nbsp; <!-- Adding non-breaking spaces -->
 </p>
