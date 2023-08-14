@@ -14,18 +14,23 @@ I am on the path to become a true Software Engineer.
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
 
-<code>connect:</code>
+`stack:`
 
 <p>
-  <a href="https://twitter.com/namestarlit">
-    <img src="https://cdn.simpleicons.org/twitter/f5f5f5" alt="Twitter" height="16" width="16">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/namestarlit/">
-    <img src="https://cdn.simpleicons.org/linkedin/f5f5f5" alt="LinkedIn" height="16" width="16">
-  </a>&nbsp;
-  <a href="https://bento.me/starlit">
-    <img src="https://cdn.simpleicons.org/bento/f5f5f5" alt="Bento" height="16" width="16">
-  </a>&nbsp;
+  <img src="https://cdn.simpleicons.org/bash/f5f5f5" alt="Bash" title="Bash" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/c/f5f5f5" alt="C" title="C" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/python/f5f5f5" alt="Python" title="Python" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/javascript/f5f5f5" alt="JavaScript" title="JavaScript" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/html/f5f5f5" alt="HTML" title="HTML" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/css/f5f5f5" alt="CSS" title="CSS" height="16" width="16">
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/linux/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/mysql/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/nginx/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/docker/f5f5f5" alt="Docker" title="Docker" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/git/f5f5f5" alt="Git" title="Git" height="16" width="16">
 </p>
 <br><br>
 
@@ -44,3 +49,19 @@ interests:
   - "Databases and Data Management"
   - "Systems Programming and Low-Level Development"
 ```
+
+<br><br>
+
+<code>connect:</code>
+
+<p>
+  <a href="https://twitter.com/namestarlit">
+    <img src="https://cdn.simpleicons.org/twitter/f5f5f5" alt="Twitter" height="16" width="16">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/namestarlit/">
+    <img src="https://cdn.simpleicons.org/linkedin/f5f5f5" alt="LinkedIn" height="16" width="16">
+  </a>&nbsp;
+  <a href="https://bento.me/starlit">
+    <img src="https://cdn.simpleicons.org/bento/f5f5f5" alt="Bento" height="16" width="16">
+  </a>&nbsp;
+</p>
