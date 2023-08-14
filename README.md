@@ -1,4 +1,12 @@
 ### Software Engineer
+`Terminal Alchemist`, `Architect of Logic`
+
+Hello, I am Paul John. Within the command-line realm,
+I weave logic into reality, conjuring solutions from code.
+I don't merely write scripts; I craft systems that breathe,
+for I aspire to be more than a developer—
+I am on the path to become a true Software Engineer.
+
 `connect:`
 
 <p align="left">
