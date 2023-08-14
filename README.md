@@ -1,16 +1,7 @@
-<style>
-  .title {
-    font-family: 'Courier New', monospace;
-    font-size: 18px;
-    font-weight: bold;
-    color: #ff9900; /* Custom color */
-  }
-</style>
-
 <h3>Software Engineer</h3>
 
 <p>
-<span class="title">Terminal Alchemist</span>, <span class="title">Architect of Logic</span>
+<span style="color: #ff9900;">Terminal Alchemist</span>, <span style="color: #ff9900;">Architect of Logic</span>
 </p>
 
 <pre>
