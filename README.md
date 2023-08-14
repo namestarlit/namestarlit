@@ -29,6 +29,7 @@ I am on the path to become a true Software Engineer.
 </p>
 
 <h4>about.me</h4>
+
 ```yaml
 name: Paul John
 located_in: Tanzania
@@ -41,4 +42,4 @@ interests:
   - "Nginx and Web Servers"
   - "Databases and Data Management"
   - "Systems Programming and Low-Level Development"
-
+```
