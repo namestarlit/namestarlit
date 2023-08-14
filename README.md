@@ -28,7 +28,7 @@ I am on the path to become a true Software Engineer.
   </a>&nbsp;
 </p>
 
-<h4>about.me</h4>
+<p>about.me</p>
 
 ```yaml
 name: Paul John
