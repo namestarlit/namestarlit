@@ -23,6 +23,7 @@ I am on the path to become a true Software Engineer.
   <img src="https://cdn.simpleicons.org/javascript/f5f5f5" alt="JavaScript" title="JavaScript" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/html5/f5f5f5" alt="HTML" title="HTML" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/css3/f5f5f5" alt="CSS" title="CSS" height="16" width="16">&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/linux/f5f5f5" alt="Linux" title="Linux" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/nginx/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">&nbsp;
