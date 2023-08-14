@@ -17,7 +17,7 @@ I am on the path to become a true Software Engineer.
 `stack:`
 
 <p>
-  <img src="https://cdn.simpleicons.org/bash/f5f5f5" alt="Bash" title="Bash" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/gnubash/f5f5f5" alt="Bash" title="Bash" height="16" width="16">
   <img src="https://cdn.simpleicons.org/c/f5f5f5" alt="C" title="C" height="16" width="16">
   <img src="https://cdn.simpleicons.org/python/f5f5f5" alt="Python" title="Python" height="16" width="16">
   <img src="https://cdn.simpleicons.org/javascript/f5f5f5" alt="JavaScript" title="JavaScript" height="16" width="16">
