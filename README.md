@@ -1,5 +1,17 @@
+<style>
+  .title {
+    font-family: 'Courier New', monospace;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff9900; /* Custom color */
+  }
+</style>
+
 <h3>Software Engineer</h3>
-<p><code>Terminal Alchemist</code>, <code>Architect of Logic</code></p>
+
+<p>
+<span class="title">Terminal Alchemist</span>, <span class="title">Architect of Logic</span>
+</p>
 
 <pre>
 Hello, I am Paul John. Within the command-line realm,
@@ -11,7 +23,7 @@ I am on the path to become a true Software Engineer.
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
 
-<code>connect:</code>
+<h4><code>connect:</code></h4>
 
 <p>
   <a href="https://twitter.com/namestarlit">
