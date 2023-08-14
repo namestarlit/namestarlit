@@ -1,5 +1,4 @@
 ### Software Engineer
----
 Links:
 
 <p align="left">
