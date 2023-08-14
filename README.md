@@ -50,7 +50,7 @@ interests:
   - "Systems Programming and Low-Level Development"
 ```
 
-<br><br>
+<br>
 
 <code>connect:</code>
 
