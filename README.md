@@ -28,6 +28,7 @@ I am on the path to become a true Software Engineer.
   <img src="https://cdn.simpleicons.org/nginx/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/docker/f5f5f5" alt="Docker" title="Docker" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/git/f5f5f5" alt="Git" title="Git" height="16" width="16">&nbsp;
+  <img src="https://cdn.simpleicons.org/vim/f5f5f5" alt="vim" title="Vim" height="16" width="16">&nbsp;
 </p>
 <br><br>
 
