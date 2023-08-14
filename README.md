@@ -14,7 +14,7 @@ I am on the path to become a true Software Engineer.
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
 
-<h4><code>connect:</code></h4>
+<code>connect:</code>
 
 <p>
   <a href="https://twitter.com/namestarlit">
