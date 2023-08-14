@@ -1,7 +1,7 @@
 <h3>Software Engineer</h3>
 
 <p>
-<span style="color: #ff9900;">Terminal Alchemist</span>, <span style="color: #ff9900;">Architect of Logic</span>
+<span>Terminal Alchemist</span>, <span>Architect of Logic</span>
 </p>
 
 <pre>
