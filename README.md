@@ -7,6 +7,8 @@ I don't merely write scripts; I craft systems that breathe,
 for I aspire to be more than a developer—
 I am on the path to become a true Software Engineer.
 
+<div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
+
 `connect:`
 
 <p align="left">
