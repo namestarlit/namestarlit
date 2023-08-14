@@ -3,6 +3,6 @@ Links:
 
 <p align="left">
   <a href="https://twitter.com/namestarlit">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="twitter" height="32" width="32" />
   </a>
 </p>
