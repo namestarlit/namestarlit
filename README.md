@@ -1,5 +1,5 @@
 ### Software Engineer
-Connect:
+connect:
 
 <p align="left">
   <a href="https://twitter.com/namestarlit">
