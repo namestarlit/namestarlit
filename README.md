@@ -28,7 +28,7 @@ I am on the path to become a true Software Engineer.
   </a>&nbsp;
 </p>
 
-`about.me`
+&nbsp;`about.me`&nbsp;
 ```yaml
 name: Paul John
 located_in: Tanzania
