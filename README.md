@@ -23,7 +23,7 @@ I am on the path to become a true Software Engineer.
 <a href="https://www.learn-c.org/">
   <img src="https://cdn.simpleicons.org/c/222/f5f5f5" alt="C" title="C" height="16" width="16">
 </a>&nbsp;
-<a href="https://www.python.org/">
+<a href="https://docs.python.org/3/tutorial/index.html">
   <img src="https://cdn.simpleicons.org/python/222/f5f5f5" alt="Python" title="Python" height="16" width="16">
 </a>&nbsp;
 <a href="https://javascript.info/">
