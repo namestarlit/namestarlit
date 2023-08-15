@@ -53,7 +53,9 @@ I am on the path to become a true Software Engineer.
 <a href="https://git-scm.com/book/en/v2">
   <img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16">
 </a>&nbsp;
-  <img src="https://cdn.simpleicons.org/vim/222/f5f5f5" alt="vim" title="Vim" height="16" width="16">&nbsp;
+<a href="https://learnvim.irian.to/">
+  <img src="https://cdn.simpleicons.org/vim/222/f5f5f5" alt="vim" title="Vim" height="16" width="16">
+</a>&nbsp;
 </p>
 <br><br>
 
