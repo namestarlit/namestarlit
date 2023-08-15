@@ -41,7 +41,9 @@ I am on the path to become a true Software Engineer.
 <a href="https://dev.mysql.com/">
   <img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
 </a>&nbsp;
-  <img src="https://cdn.simpleicons.org/nginx/222/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">&nbsp;
+<a href="https://nginx.org/en/docs/">
+  <img src="https://cdn.simpleicons.org/nginx/222/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">
+</a>&nbsp;
   <img src="https://cdn.simpleicons.org/docker/222/f5f5f5" alt="Docker" title="Docker" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/puppet/222/f5f5f5" alt="Puppet" title="Puppet" height="16" width="16">&nbsp;
   <img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16">&nbsp;
