@@ -38,7 +38,7 @@ I am on the path to becoming a true Software Engineer.
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
 </a>&nbsp;
-<a href="https://dev.mysql.com/doc/refman/8.0/en/tutorial.html">
+<a href="https://www.mysqltutorial.org/">
   <img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
 </a>&nbsp;
 <a href="https://nginx.org/en/docs/">
