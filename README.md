@@ -9,7 +9,7 @@ Hello, I am Paul John. Within the command-line realm,
 I weave logic into reality, conjuring solutions from code.
 I don't merely write scripts; I craft systems that breathe,
 for I aspire to be more than a developer—
-I am on the path to become a true Software Engineer.
+I am on the path to becoming a true Software Engineer.
 </pre>
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
@@ -38,7 +38,7 @@ I am on the path to become a true Software Engineer.
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
 </a>&nbsp;
-<a href="https://dev.mysql.com/doc/refman/8.0/en/tutorial.html">
+<a href="https://www.mysqltutorial.org/">
   <img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
 </a>&nbsp;
 <a href="https://nginx.org/en/docs/">
