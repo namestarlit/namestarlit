@@ -64,9 +64,9 @@ I am on the path to become a true Software Engineer.
 ```yaml
 name: Paul John
 located_in: Tanzania
-current_status: Student and Learner
+current_status: Software Engineer
 education:
-  - "ALX's Software Engineering Programme (In Progress)"
+  - "ALX's 12-Months Software Engineering Programme"
 interests:
   - "Software Engineering"
   - "Linux and Server Administration"
