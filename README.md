@@ -81,7 +81,7 @@ interests:
 
 <p>
   <a href="https://twitter.com/namestarlit">
-    <img src="https://cdn.simpleicons.org/twitter/222/f5f5f5" alt="Twitter" height="16" width="16">
+    <img src="https://cdn.simpleicons.org/x/222/f5f5f5" alt="X" height="16" width="16">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/namestarlit/">
     <img src="https://cdn.simpleicons.org/linkedin/222/f5f5f5" alt="LinkedIn" height="16" width="16">
