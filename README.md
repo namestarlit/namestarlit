@@ -1,7 +1,7 @@
 <h3>Software Engineer</h3>
 
 <p>
-  Hi, I'm Paul John — a software engineer specializing in backend systems.
+  Hi, I'm Paul John - a software engineer specializing in backend systems.
   My recent work includes integrating Laboratory Information Management Systems
   and enabling their interoperability with broader hospital platforms.
   With over 3 years of experience, I'm driven to build impactful software
