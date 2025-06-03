@@ -8,10 +8,10 @@
   and grow by solving complex, real-world problems.
 </p>
 
-<p><strong>
+<p><strong><em>
   My mission is simple yet powerful: to design and implement high-quality software
   that connects and empowers people.
-</strong></p>
+</em></strong></p>
 
 <br>
 
