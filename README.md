@@ -4,17 +4,21 @@
 <span>Terminal Alchemist</span>, <span>Architect of Logic</span>
 </p>
 
-<pre>
-Hi, I'm Paul John — a software engineer specializing in backend systems.
-My recent work includes integrating Laboratory Information Management Systems
-and enabling their interoperability with broader hospital platforms.
+<p>
+  Hi, I'm Paul John — a software engineer specializing in backend systems.
+  My recent work includes integrating Laboratory Information Management Systems
+  and enabling their interoperability with broader hospital platforms.
+</p>
 
-With over 3 years of experience, I'm driven to build impactful software and
-grow by solving complex, real-world problems.
+<p>
+  With over 3 years of experience, I'm driven to build impactful software
+  and grow by solving complex, real-world problems.
+</p>
 
-My mission is simple yet powerful: to design and implement high-quality software
-that connects and empowers people.
-</pre>
+<p>
+  My mission is simple yet powerful: to design and implement high-quality software
+  that connects and empowers people.
+</p>
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
 
@@ -54,10 +58,10 @@ that connects and empowers people.
 <a href="https://nginx.org/en/docs/">
   <img src="https://cdn.simpleicons.org/nginx/222/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">
 </a>&nbsp;
-<a href="https://www.puppet.com/docs/puppet/8/puppet_language.html">
+<a href="https://doc.traefik.io/traefik/">
   <img src="https://cdn.simpleicons.org/traefikproxy/222/f5f5f5" alt="Traefik Proxy" title="Traefik Proxy" height="16" width="16">
 </a>&nbsp;
-<a href="https://git-scm.com/book/en/v2">
+<a href="https://git-scm.com/doc">
   <img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16">
 </a>&nbsp;
 <a href="https://learnvim.irian.to/">
