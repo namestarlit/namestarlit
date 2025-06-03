@@ -1,8 +1,8 @@
 <h3>Software Engineer</h3>
 
-<p>
+<code>
 <span>Terminal Alchemist</span>, <span>Architect of Logic</span>
-</p>
+</code>
 
 <p>
   Hi, I'm Paul John — a software engineer specializing in backend systems.
@@ -86,7 +86,7 @@
 
 <br>
 
-<code>about.me</code>
+<code>bio</code>
 
 ```yaml
 name: Paul John
