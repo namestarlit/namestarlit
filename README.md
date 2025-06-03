@@ -44,9 +44,11 @@
 <a href="https://www.djangoproject.com/start/">
   <img src="https://cdn.simpleicons.org/django/222/f5f5f5" alt="Django" title="Django" height="16" width="16">
 </a>&nbsp;
-<a href="https://www.djangoproject.com/start/">
-  <img src="https://cdn.simpleicons.org/flask/222/f5f5f5" alt="Flask" title="Flask" height="16" width="16">
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://cdn.simpleicons.org/fastapi/222/f5f5f5" alt="FastAPI" title="FastAPI" height="16" width="16">
 </a>&nbsp;
+<a href="https://flask.palletsprojects.com/en/stable/">
+  <img src="https://cdn.simpleicons.org/flask/222/f5f5f5" alt="Flask" title="Flask" height="16" width="16">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
