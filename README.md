@@ -17,7 +17,7 @@
   that connects and empowers people.
 </p>
 
-<div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
+<br>
 
 `stack:`
 
