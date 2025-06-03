@@ -8,9 +8,6 @@
   Hi, I'm Paul John — a software engineer specializing in backend systems.
   My recent work includes integrating Laboratory Information Management Systems
   and enabling their interoperability with broader hospital platforms.
-</p>
-
-<p>
   With over 3 years of experience, I'm driven to build impactful software
   and grow by solving complex, real-world problems.
 </p>
