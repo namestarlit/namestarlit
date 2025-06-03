@@ -42,6 +42,9 @@ that connects and empowers people.
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
 </a>&nbsp;
+<a href="https://docs.docker.com/">
+  <img src="https://cdn.simpleicons.org/docker/222/f5f5f5" alt="Docker" title="Docker" height="16" width="16">
+</a>&nbsp;
 <a href="https://www.mysqltutorial.org/">
   <img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
 </a>&nbsp;
@@ -51,11 +54,8 @@ that connects and empowers people.
 <a href="https://nginx.org/en/docs/">
   <img src="https://cdn.simpleicons.org/nginx/222/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">
 </a>&nbsp;
-<a href="https://docs.docker.com/">
-  <img src="https://cdn.simpleicons.org/docker/222/f5f5f5" alt="Docker" title="Docker" height="16" width="16">
-</a>&nbsp;
 <a href="https://www.puppet.com/docs/puppet/8/puppet_language.html">
-  <img src="https://cdn.simpleicons.org/puppet/222/f5f5f5" alt="Puppet" title="Puppet" height="16" width="16">
+  <img src="https://cdn.simpleicons.org/traefikproxy/222/f5f5f5" alt="Traefik Proxy" title="Traefik Proxy" height="16" width="16">
 </a>&nbsp;
 <a href="https://git-scm.com/book/en/v2">
   <img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16">
@@ -77,8 +77,8 @@ education:
 interests:
   - "Software Engineering"
   - "Linux and Server Administration"
-  - "Databases and Data Management"
   - "Systems Design and Implementation"
+  - "Databases and Data Management"
 ```
 
 <br>
@@ -90,9 +90,6 @@ interests:
     <img src="https://cdn.simpleicons.org/x/222/f5f5f5" alt="X" height="16" width="16">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/namestarlit/">
-    <img src="https://cdn.simpleicons.org/linkedin/222/f5f5f5" alt="LinkedIn" height="16" width="16">
-  </a>&nbsp;
-  <a href="https://medium.com/@namestarlit">
-    <img src="https://cdn.simpleicons.org/medium/222/f5f5f5" alt="Medium" height="16" width="16">
+    <img src="https://cdn.simpleicons.org/wakatime/222/f5f5f5" alt="WakaTime" height="16" width="16">
   </a>&nbsp;
 </p>
