@@ -86,10 +86,13 @@ interests:
 <code>connect:</code>
 
 <p>
-  <a href="https://twitter.com/namestarlit">
+  <a href="https://x.com/namestarlit">
     <img src="https://cdn.simpleicons.org/x/222/f5f5f5" alt="X" height="16" width="16">
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/namestarlit/">
+  <a href="https://bento.me/namestarlit">
+    <img src="https://cdn.simpleicons.org/bento/222/f5f5f5" alt="Bento" height="16" width="16">
+  </a>&nbsp;
+  <a href="https://wakatime.com/@namestarlit">
     <img src="https://cdn.simpleicons.org/wakatime/222/f5f5f5" alt="WakaTime" height="16" width="16">
   </a>&nbsp;
 </p>
