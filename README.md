@@ -56,20 +56,20 @@
 <a href="https://react.dev/learn">
   <img src="https://cdn.simpleicons.org/react/222/f5f5f5" alt="React" title="React" height="16" width="16">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresqltutorial.com/">
+  <img src="https://cdn.simpleicons.org/postgresql/222/f5f5f5" alt="PostgreSQL" title="PostgreSQL" height="16" width="16">
+</a>&nbsp;
+<a href="https://www.mysqltutorial.org/">
+  <img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
+</a>&nbsp;
+<a href="https://www.mongodb.com/">
+  <img src="https://cdn.simpleicons.org/mongodb/222/f5f5f5" alt="MongoDB" title="MongoDB" height="16" width="16">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
 </a>&nbsp;
 <a href="https://docs.docker.com/">
   <img src="https://cdn.simpleicons.org/docker/222/f5f5f5" alt="Docker" title="Docker" height="16" width="16">
-</a>&nbsp;
-<a href="https://www.mysqltutorial.org/">
-  <img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16">
-</a>&nbsp;
-<a href="https://www.postgresqltutorial.com/">
-  <img src="https://cdn.simpleicons.org/postgresql/222/f5f5f5" alt="PostgreSQL" title="PostgreSQL" height="16" width="16">
-</a>&nbsp;
-<a href="https://www.mongodb.com/">
-  <img src="https://cdn.simpleicons.org/mongodb/222/f5f5f5" alt="MongoDB" title="MongoDB" height="16" width="16">
 </a>&nbsp;
 <a href="https://nginx.org/en/docs/">
   <img src="https://cdn.simpleicons.org/nginx/222/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16">
