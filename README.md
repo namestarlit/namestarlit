@@ -57,9 +57,6 @@
   <a href="https://www.mongodb.com/">
     <img src="https://cdn.simpleicons.org/mongodb/222/f5f5f5" alt="MongoDB" title="MongoDB" height="16" width="16">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/doc">
-    <img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16">
-  </a>&nbsp;
   <a href="https://docs.docker.com/">
     <img src="https://cdn.simpleicons.org/docker/222/f5f5f5" alt="Docker" title="Docker" height="16" width="16">
   </a>&nbsp;
@@ -71,6 +68,9 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linuxjourney.com/">
     <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
+  </a>&nbsp;
+  <a href="https://git-scm.com/doc">
+    <img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16">
   </a>&nbsp;
   <a href="https://www.shellscript.sh/">
     <img src="https://cdn.simpleicons.org/gnubash/222/f5f5f5" alt="Bash" title="Bash" height="16" width="16">
