@@ -4,13 +4,9 @@
 <span>Terminal Alchemist</span>, <span>Architect of Logic</span>
 </p>
 
-<pre>
-Hello, I am Paul John. Within the command-line realm,
-I weave logic into reality, conjuring solutions from code.
-I don't merely write scripts; I craft systems that breathe,
-for I aspire to be more than a developer—
-I am on the path to becoming a true Software Engineer.
-</pre>
+<p>
+Hi, I’m Paul John — I specialize in designing and implementing backend systems, including recent work on integrating laboratory management systems with hospital platforms. I’m driven to build impactful software and grow by solving complex, real-world problems.
+</p>
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
 
