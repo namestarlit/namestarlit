@@ -1,8 +1,6 @@
 <h3>Software Engineer</h3>
 
-<code>
-<span>Terminal Alchemist</span>, <span>Architect of Logic</span>
-</code>
+<code>Terminal Alchemist, Architect of Logic</code>
 
 <p>
   Hi, I'm Paul John — a software engineer specializing in backend systems.
