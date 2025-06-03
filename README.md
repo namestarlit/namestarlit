@@ -52,6 +52,9 @@
 </a>&nbsp;
 <a href="https://nodejs.org/en">
   <img src="https://cdn.simpleicons.org/nodedotjs/222/f5f5f5" alt="Node.js" title="Node.js" height="16" width="16">
+</a>&nbsp;
+<a href="https://react.dev/learn">
+  <img src="https://cdn.simpleicons.org/react/222/f5f5f5" alt="React" title="React" height="16" width="16">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
