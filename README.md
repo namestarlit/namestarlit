@@ -65,7 +65,8 @@
   <img src="https://cdn.simpleicons.org/vim/222/f5f5f5" alt="vim" title="Vim" height="16" width="16">
 </a>&nbsp;
 </p>
-<br><br>
+
+<br>
 
 <code>about.me</code>
 
