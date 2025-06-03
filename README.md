@@ -50,7 +50,7 @@
 <a href="https://flask.palletsprojects.com/en/stable/">
   <img src="https://cdn.simpleicons.org/flask/222/f5f5f5" alt="Flask" title="Flask" height="16" width="16">
 </a>&nbsp;
-<a href="https://flask.palletsprojects.com/en/stable/">
+<a href="https://nodejs.org/en">
   <img src="https://cdn.simpleicons.org/nodedotjs/222/f5f5f5" alt="Node.js" title="Node.js" height="16" width="16">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linuxjourney.com/">
