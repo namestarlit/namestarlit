@@ -40,6 +40,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://cdn.simpleicons.org/css/222/f5f5f5" alt="CSS" title="CSS" height="16" width="16">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.simpleicons.org/django/222/f5f5f5" alt="Django" title="Django" height="16" width="16">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
 </a>&nbsp;
