@@ -4,15 +4,17 @@
 <span>Terminal Alchemist</span>, <span>Architect of Logic</span>
 </p>
 
-<p>
-Hi, I'm Paul John — a software engineer specializing in designing and implementing backend systems,
-including recent work on integrating Laboratory Information Management Systems and their interoperability
-with broader hospital systems. With over 3 years of experience, I'm driven to build impactful software 
-and grow by solving complex, real-world problems.
+<pre>
+Hi, I'm Paul John — a software engineer specializing in backend systems.
+My recent work includes integrating Laboratory Information Management Systems
+and enabling their interoperability with broader hospital platforms.
 
-My mission is simple yet powerful: to design and implement high-quality software 
+With over 3 years of experience, I'm driven to build impactful software and
+grow by solving complex, real-world problems.
+
+My mission is simple yet powerful: to design and implement high-quality software
 that connects and empowers people.
-</p>
+</pre>
 
 <div style="border-top: 1px solid #ccc; margin-top: 10px;"></div>
 
