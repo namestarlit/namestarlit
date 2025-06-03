@@ -49,6 +49,9 @@
 </a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/stable/">
   <img src="https://cdn.simpleicons.org/flask/222/f5f5f5" alt="Flask" title="Flask" height="16" width="16">
+</a>&nbsp;
+<a href="https://flask.palletsprojects.com/en/stable/">
+  <img src="https://cdn.simpleicons.org/nodedotjs/222/f5f5f5" alt="Node.js" title="Node.js" height="16" width="16">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linuxjourney.com/">
   <img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16">
@@ -85,7 +88,7 @@ name: Paul John
 located_in: Tanzania
 current_status: Software Engineer
 education:
-  - "ALX's 12-Months Software Engineering Programme"
+  - "Software Engineering - ALX Africa"
 interests:
   - "Software Engineering"
   - "Linux and Server Administration"
