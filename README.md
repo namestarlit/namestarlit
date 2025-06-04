@@ -89,7 +89,7 @@ name: Paul John
 located_in: Tanzania
 current_status: Software Engineer
 education:
-  - "Software Engineering - ALX Africa"
+  - "Software Engineering - ALX"
 interests:
   - "Software Engineering"
   - "Linux and Server Administration"
