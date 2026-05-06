@@ -43,11 +43,12 @@ located_in: Tanzania
 current_status: Software Engineer
 education:
   - "Software Engineering - ALX"
+  - "Mechanical Engineering background"
 interests:
-  - "Software Engineering"
-  - "Linux and Server Administration"
   - "Systems Design and Implementation"
+  - "Linux and Server Administration"
   - "Databases and Data Management"
+  - "Technical Writing and Documentation"
 ```
 
 <br>
@@ -56,7 +57,6 @@ interests:
 
 <table>
   <tr>
-    <td><a href="https://x.com/namestarlit"><img src="https://cdn.simpleicons.org/x/222/f5f5f5" alt="X" title="X" height="16" width="16"></a></td>
     <td><a href="https://namestarlit.com"><img src="https://cdn.simpleicons.org/firefoxbrowser/222/f5f5f5" alt="Portfolio" title="Portfolio" height="16" width="16"></a></td>
     <td><a href="https://wakatime.com/@namestarlit"><img src="https://cdn.simpleicons.org/wakatime/222/f5f5f5" alt="WakaTime" title="WakaTime" height="16" width="16"></a></td>
   </tr>
