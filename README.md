@@ -1,5 +1,3 @@
-<h3>Software Engineer</h3>
-
 <p>
   Hi, I'm Paul John.
 </p>
