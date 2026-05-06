@@ -1,16 +1,22 @@
 <h3>Software Engineer</h3>
 
 <p>
-  Hi, I'm Paul John - a software engineer specializing in backend systems.
-  My recent work includes integrating Laboratory Information Management Systems
-  and enabling their interoperability with broader hospital platforms.
-  With over 3 years of experience, I'm driven to build impactful software
-  and grow by solving complex, real-world problems.
+  Hi, I'm Paul John - a software engineer based in Tanzania. I build backend
+  systems, integrations, and practical software tools shaped around real-world
+  problems. My work spans healthcare platforms, Laboratory Information Management
+  Systems, data workflows, and personal product experiments.
+</p>
+
+<p>
+  I come from a Mechanical Engineering background and later trained through ALX,
+  where I formalized my path into software engineering. I care about building
+  reliable systems, understanding the problem deeply, and turning ideas into
+  useful software.
 </p>
 
 <p><strong><em>
-  My mission is simple yet powerful: to design and implement high-quality software
-  that connects and empowers people.
+  My mission is to design and share high-quality software solutions that connect
+  and empower people.
 </em></strong></p>
 
 <br>
