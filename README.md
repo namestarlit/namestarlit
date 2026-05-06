@@ -17,7 +17,31 @@
 
 `stack:`
 
-[![Python](https://cdn.simpleicons.org/python/222/f5f5f5 "Python")](https://www.python.org/) [![JavaScript](https://cdn.simpleicons.org/javascript/222/f5f5f5 "JavaScript")](https://javascript.info/) [![TypeScript](https://cdn.simpleicons.org/typescript/222/f5f5f5 "TypeScript")](https://www.typescriptlang.org/docs/handbook/intro.html) [![HTML](https://cdn.simpleicons.org/html5/222/f5f5f5 "HTML")](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://cdn.simpleicons.org/css/222/f5f5f5 "CSS")](https://developer.mozilla.org/en-US/docs/Web/CSS) [![C](https://cdn.simpleicons.org/c/222/f5f5f5 "C")](https://www.learn-c.org/) &nbsp; [![Django](https://cdn.simpleicons.org/django/222/f5f5f5 "Django")](https://www.djangoproject.com/start/) [![FastAPI](https://cdn.simpleicons.org/fastapi/222/f5f5f5 "FastAPI")](https://fastapi.tiangolo.com/) [![Flask](https://cdn.simpleicons.org/flask/222/f5f5f5 "Flask")](https://flask.palletsprojects.com/en/stable/) [![Node.js](https://cdn.simpleicons.org/nodedotjs/222/f5f5f5 "Node.js")](https://nodejs.org/en) [![React](https://cdn.simpleicons.org/react/222/f5f5f5 "React")](https://react.dev/learn) &nbsp; [![PostgreSQL](https://cdn.simpleicons.org/postgresql/222/f5f5f5 "PostgreSQL")](https://www.postgresqltutorial.com/) [![MySQL](https://cdn.simpleicons.org/mysql/222/f5f5f5 "MySQL")](https://www.mysqltutorial.org/) [![MongoDB](https://cdn.simpleicons.org/mongodb/222/f5f5f5 "MongoDB")](https://www.mongodb.com/) &nbsp; [![Docker](https://cdn.simpleicons.org/docker/222/f5f5f5 "Docker")](https://docs.docker.com/) [![Nginx](https://cdn.simpleicons.org/nginx/222/f5f5f5 "Nginx")](https://nginx.org/en/docs/) [![Traefik Proxy](https://cdn.simpleicons.org/traefikproxy/222/f5f5f5 "Traefik Proxy")](https://doc.traefik.io/traefik/) &nbsp; [![Linux](https://cdn.simpleicons.org/linux/222/f5f5f5 "Linux")](https://linuxjourney.com/) [![Git](https://cdn.simpleicons.org/git/222/f5f5f5 "Git")](https://git-scm.com/doc) [![Bash](https://cdn.simpleicons.org/gnubash/222/f5f5f5 "Bash")](https://www.shellscript.sh/) [![Vim](https://cdn.simpleicons.org/vim/222/f5f5f5 "Vim")](https://learnvim.irian.to/)
+<table>
+  <tr>
+    <td><a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/222/f5f5f5" alt="Python" title="Python" height="16" width="16"></a></td>
+    <td><a href="https://javascript.info/"><img src="https://cdn.simpleicons.org/javascript/222/f5f5f5" alt="JavaScript" title="JavaScript" height="16" width="16"></a></td>
+    <td><a href="https://www.typescriptlang.org/docs/handbook/intro.html"><img src="https://cdn.simpleicons.org/typescript/222/f5f5f5" alt="TypeScript" title="TypeScript" height="16" width="16"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/222/f5f5f5" alt="HTML" title="HTML" height="16" width="16"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/222/f5f5f5" alt="CSS" title="CSS" height="16" width="16"></a></td>
+    <td><a href="https://www.learn-c.org/"><img src="https://cdn.simpleicons.org/c/222/f5f5f5" alt="C" title="C" height="16" width="16"></a></td>
+    <td><a href="https://www.djangoproject.com/start/"><img src="https://cdn.simpleicons.org/django/222/f5f5f5" alt="Django" title="Django" height="16" width="16"></a></td>
+    <td><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/222/f5f5f5" alt="FastAPI" title="FastAPI" height="16" width="16"></a></td>
+    <td><a href="https://flask.palletsprojects.com/en/stable/"><img src="https://cdn.simpleicons.org/flask/222/f5f5f5" alt="Flask" title="Flask" height="16" width="16"></a></td>
+    <td><a href="https://nodejs.org/en"><img src="https://cdn.simpleicons.org/nodedotjs/222/f5f5f5" alt="Node.js" title="Node.js" height="16" width="16"></a></td>
+    <td><a href="https://react.dev/learn"><img src="https://cdn.simpleicons.org/react/222/f5f5f5" alt="React" title="React" height="16" width="16"></a></td>
+    <td><a href="https://www.postgresqltutorial.com/"><img src="https://cdn.simpleicons.org/postgresql/222/f5f5f5" alt="PostgreSQL" title="PostgreSQL" height="16" width="16"></a></td>
+    <td><a href="https://www.mysqltutorial.org/"><img src="https://cdn.simpleicons.org/mysql/222/f5f5f5" alt="MySQL" title="MySQL" height="16" width="16"></a></td>
+    <td><a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/222/f5f5f5" alt="MongoDB" title="MongoDB" height="16" width="16"></a></td>
+    <td><a href="https://docs.docker.com/"><img src="https://cdn.simpleicons.org/docker/222/f5f5f5" alt="Docker" title="Docker" height="16" width="16"></a></td>
+    <td><a href="https://nginx.org/en/docs/"><img src="https://cdn.simpleicons.org/nginx/222/f5f5f5" alt="Nginx" title="Nginx" height="16" width="16"></a></td>
+    <td><a href="https://doc.traefik.io/traefik/"><img src="https://cdn.simpleicons.org/traefikproxy/222/f5f5f5" alt="Traefik Proxy" title="Traefik Proxy" height="16" width="16"></a></td>
+    <td><a href="https://linuxjourney.com/"><img src="https://cdn.simpleicons.org/linux/222/f5f5f5" alt="Linux" title="Linux" height="16" width="16"></a></td>
+    <td><a href="https://git-scm.com/doc"><img src="https://cdn.simpleicons.org/git/222/f5f5f5" alt="Git" title="Git" height="16" width="16"></a></td>
+    <td><a href="https://www.shellscript.sh/"><img src="https://cdn.simpleicons.org/gnubash/222/f5f5f5" alt="Bash" title="Bash" height="16" width="16"></a></td>
+    <td><a href="https://learnvim.irian.to/"><img src="https://cdn.simpleicons.org/vim/222/f5f5f5" alt="Vim" title="Vim" height="16" width="16"></a></td>
+  </tr>
+</table>
 
 <br>
 
@@ -40,4 +64,10 @@ interests:
 
 <code>connect:</code>
 
-[![X](https://cdn.simpleicons.org/x/222/f5f5f5 "X")](https://x.com/namestarlit) [![Portfolio](https://cdn.simpleicons.org/firefoxbrowser/222/f5f5f5 "Portfolio")](https://namestarlit.com) [![WakaTime](https://cdn.simpleicons.org/wakatime/222/f5f5f5 "WakaTime")](https://wakatime.com/@namestarlit)
+<table>
+  <tr>
+    <td><a href="https://x.com/namestarlit"><img src="https://cdn.simpleicons.org/x/222/f5f5f5" alt="X" title="X" height="16" width="16"></a></td>
+    <td><a href="https://namestarlit.com"><img src="https://cdn.simpleicons.org/firefoxbrowser/222/f5f5f5" alt="Portfolio" title="Portfolio" height="16" width="16"></a></td>
+    <td><a href="https://wakatime.com/@namestarlit"><img src="https://cdn.simpleicons.org/wakatime/222/f5f5f5" alt="WakaTime" title="WakaTime" height="16" width="16"></a></td>
+  </tr>
+</table>
