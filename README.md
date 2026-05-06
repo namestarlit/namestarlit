@@ -20,7 +20,9 @@
 <table>
   <tr>
     <td><a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/222/f5f5f5" alt="Python" title="Python" height="16" width="16"></a></td>
+    <td><a href="https://javascript.info/"><img src="https://cdn.simpleicons.org/javascript/222/f5f5f5" alt="JavaScript" title="JavaScript" height="16" width="16"></a></td>
     <td><a href="https://www.typescriptlang.org/docs/handbook/intro.html"><img src="https://cdn.simpleicons.org/typescript/222/f5f5f5" alt="TypeScript" title="TypeScript" height="16" width="16"></a></td>
+    <td><a href="https://www.learn-c.org/"><img src="https://cdn.simpleicons.org/c/222/f5f5f5" alt="C" title="C" height="16" width="16"></a></td>
     <td><a href="https://www.djangoproject.com/start/"><img src="https://cdn.simpleicons.org/django/222/f5f5f5" alt="Django" title="Django" height="16" width="16"></a></td>
     <td><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/222/f5f5f5" alt="FastAPI" title="FastAPI" height="16" width="16"></a></td>
     <td><a href="https://nodejs.org/en"><img src="https://cdn.simpleicons.org/nodedotjs/222/f5f5f5" alt="Node.js" title="Node.js" height="16" width="16"></a></td>
