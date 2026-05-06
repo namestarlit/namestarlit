@@ -1,10 +1,14 @@
 <h3>Software Engineer</h3>
 
 <p>
-  Hi, I'm Paul John - a software engineer based in Tanzania. I build backend
-  systems, integrations, and practical software tools shaped around real-world
-  problems. My work spans healthcare platforms, Laboratory Information Management
-  Systems, data workflows, and personal product experiments.
+  Hi, I'm Paul John.
+</p>
+
+<p>
+  I'm a software engineer. I build backend systems, integrations, and practical
+  software tools shaped around real-world problems. My work spans healthcare
+  platforms, Laboratory Information Management Systems, data workflows, and
+  personal product experiments.
 </p>
 
 <p>
