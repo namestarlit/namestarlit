@@ -51,7 +51,7 @@ located_in: Tanzania
 current_status: Software Engineer
 education:
   - "Software Engineering - ALX"
-  - "Mechanical Engineering background"
+  - "Mechanical Engineering"
 interests:
   - "Systems Design and Implementation"
   - "Linux and Server Administration"
