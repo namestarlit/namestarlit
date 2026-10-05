@@ -3,23 +3,11 @@
 </p>
 
 <p>
-  I'm a software engineer. I build backend systems, integrations, and practical
-  software tools shaped around real-world problems. My work spans healthcare
-  platforms, Laboratory Information Management Systems, data workflows, and
-  personal product experiments.
+  I'm a software engineer focused on building solutions that connect and empower
+  people. I have over two years of experience developing backend systems, APIs,
+  and data workflows. I enjoy understanding problems and finding thoughtful ways
+  to solve them.
 </p>
-
-<p>
-  I come from a Mechanical Engineering background and later trained through ALX,
-  where I formalized my path into software engineering. I care about building
-  reliable systems, understanding the problem deeply, and turning ideas into
-  useful software.
-</p>
-
-<p><strong><em>
-  My mission is to design and share high-quality software solutions that connect
-  and empower people.
-</em></strong></p>
 
 <br>
 
@@ -47,16 +35,14 @@
 
 ```yaml
 name: Paul John
-located_in: Tanzania
-current_status: Software Engineer
+located_in: Dar es Salaam, Tanzania
+current_status: Software Engineer at Ubunifu Solutions Limited
 education:
-  - "Software Engineering - ALX"
-  - "Mechanical Engineering"
+  - "Certificate in Software Engineering - ALX Africa (2022–2024)"
 interests:
-  - "Systems Design and Implementation"
-  - "Linux and Server Administration"
-  - "Databases and Data Management"
-  - "Technical Writing and Documentation"
+  - "Systems Design and Architecture"
+  - "Software and Data Integration"
+  - "Problem Solving and Product Development"
 ```
 
 <br>
