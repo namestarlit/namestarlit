@@ -36,7 +36,8 @@ that make a system reliable and useful.
 
 ```yaml
 name: Paul John
-located_in: Dar es Salaam, Tanzania
+username: namestarlit
+website: https://namestarlit.com
 interests:
   - Understanding problems and the people they affect
   - System design and architecture
