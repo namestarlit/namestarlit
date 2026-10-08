@@ -12,7 +12,7 @@ that make a system reliable and useful.
   <tr>
     <td><a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/222/f5f5f5" alt="Python" title="Python" height="16" width="16"></a></td>
     <td><a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/222/f5f5f5" alt="TypeScript" title="TypeScript" height="16" width="16"></a></td>
-    <td><a href="https://www.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/222/f5f5f5" alt="Django" title="Django" height="16" width="16"></a></td>
+    <td><a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://cdn.simpleicons.org/django/222/f5f5f5" alt="Django REST Framework" title="Django REST Framework" height="16" width="16"> DRF</a></td>
     <td><a href="https://flask.palletsprojects.com/"><img src="https://cdn.simpleicons.org/flask/222/f5f5f5" alt="Flask" title="Flask" height="16" width="16"></a></td>
     <td><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/222/f5f5f5" alt="FastAPI" title="FastAPI" height="16" width="16"></a></td>
     <td><a href="https://nestjs.com/"><img src="https://cdn.simpleicons.org/nestjs/222/f5f5f5" alt="NestJS" title="NestJS" height="16" width="16"></a></td>
